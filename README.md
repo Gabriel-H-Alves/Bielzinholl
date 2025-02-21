@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Gabriel Rocha
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Gabriel Henrique Alves Rocha, tenho 19 anos e sou natural de São Paulo (Capital). Concluí o ensino médio no E.E Ermano Marchetti em 2023. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Flamingo. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu GitHub.
 
