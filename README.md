@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Gabriel Henrique Alves Rocha, tenho 19 anos e sou natural de São Paulo (Capital). Concluí o ensino médio no E.E Ermano Marchetti em 2023. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Flamingo. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu GitHub.
+Me chamo Gabriel Henrique Alves Rocha, tenho 19 anos e sou natural de São Paulo (Capital). Concluí o ensino médio em 2023 e atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Flamingo. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu GitHub.
 
 <p>
     <a href="https://github.com/Bielzinholl?tab=repositories">
