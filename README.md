@@ -73,7 +73,7 @@ Me chamo Gabriel Henrique Alves Rocha, tenho 19 anos e sou natural de São Paulo
 <img 
       align="left" 
       alt="GitHub Stats" 
-      width= "400"
+      width= "250"
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bielzinholl&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
