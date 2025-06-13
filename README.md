@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End`**
 
-Me chamo Gabriel Henrique Alves Rocha, tenho 19 anos e sou natural de São Paulo (Capital). Concluí o ensino médio em 2023 e atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Flamingo. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu GitHub.
+Me chamo Gabriel H Alves Rocha, tenho 19 anos e sou natural de São Paulo (Capital). Concluí o ensino médio em 2023 e atualmente, estou cursando Segundo Semestre de Análise e Desenvolvimento de Sistemas na Faculdade Flamingo. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu GitHub.
 
 <p>
     <a href="https://github.com/Bielzinholl?tab=repositories">
@@ -66,7 +66,7 @@ Me chamo Gabriel Henrique Alves Rocha, tenho 19 anos e sou natural de São Paulo
 <img 
     align="left" 
     alt="Git Stats" 
-    width= "350"
+    width= "370"
     height="200" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Bielzinholl&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
@@ -74,7 +74,7 @@ Me chamo Gabriel Henrique Alves Rocha, tenho 19 anos e sou natural de São Paulo
 <img 
       align="left" 
       alt="GitHub Stats" 
-      width= "340"
+      width= "300"
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bielzinholl&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
