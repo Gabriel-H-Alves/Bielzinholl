@@ -69,14 +69,14 @@ Me chamo Gabriel H Alves Rocha, tenho 19 anos e sou natural de São Paulo (Capit
     width= "370"
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Bielzinholl&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Gabriel-H-Alves&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
 />
 <img 
       align="left" 
       alt="GitHub Stats" 
       width= "300"
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bielzinholl&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-H-Alves&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
